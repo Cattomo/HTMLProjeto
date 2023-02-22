@@ -1,0 +1,38 @@
+body{
+    background-color: purple;
+}
+.titulos{
+    color: white;
+    text-align: center;
+    font-family: Cambria;
+
+}
+.paragrafo{
+    color: lightgray;
+    font-style: bold;
+    font-size: 25px;
+    margin-left: 20px;
+    display: inline-block;
+}
+.imagem{
+    display: flex;
+    margin-left: 10px;
+}
+.paragrafo2{
+    color: lightgray;
+    font-style: bold;
+    font-size: 25px;
+    margin-left: 100px;
+    display: inline-block;
+}
+.steam2{
+    color: lightgray;
+    font-style: bold;
+    font-size: 25px;
+    margin-left: 240px;
+    display: inline-block;
+}
+.imagem2{
+    display: flex;
+    margin-left: 110px;
+}
